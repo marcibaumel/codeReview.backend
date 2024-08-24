@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Tests
         run: npm test
-        working-directory: src/book
+        working-directory: test
 
 
         
